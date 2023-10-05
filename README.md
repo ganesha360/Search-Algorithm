@@ -22,7 +22,7 @@ i)	#Use a linear search method to match the item in a list.
 ''' 
 Program for linear search method to match the item in a list
 Developed by: Ganesh R
-RegisterNumber: 22009090
+RegisterNumber: 212222240029
 '''
 def linearSearch(array,n,k):
     for i in range(0,n):
@@ -48,7 +48,7 @@ ii)	# Find the element in a list using Binary Search(Iterative Method).
 ''' 
 Program to find the element in a list using Binary Search(Iterative Method)..
 Developed by: Ganesh R 
-RegisterNumber: 22009090
+RegisterNumber: 212222240029
 '''
 def binarySearchIter(array, k, low, high):
     while low <=high:
@@ -76,7 +76,7 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 ''' 
 Program to find the element in a list using Binary Search (recursive Method).
 Developed by: Ganesh R
-RegisterNumber: 22009090
+RegisterNumber: 212222240029
 '''
 def BinarySearch(arr, k, low, high):
     if high >= low:
@@ -102,11 +102,11 @@ else:
 ```
 ## Sample Input and Output
 i)
-![output](./Web%20capture_26-1-2023_14910_lms.ai.saveetha.ac.in.jpeg)
+![output](./P1.png)
 ii)
-![output](./Web%20capture_26-1-2023_14935_lms.ai.saveetha.ac.in.jpeg)
+![output](./P2.png)
 iii)
-![output](./Web%20capture_26-1-2023_14956_lms.ai.saveetha.ac.in.jpeg)
+![output](./P3.png)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
